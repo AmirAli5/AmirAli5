@@ -16,7 +16,13 @@ Hi, I am Amir from Pakistan. I did my Bachelor's Degree in Computer Science from
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/academia.svg' alt='academia' height='40'>](https://pw.academia.edu/AmirAli)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazon.svg' alt='amazon' height='40'>](https://www.amazon.com/-/e/B081MZ5HCX)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/machine-learning-researcher)
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='40'>](https://sites.google.com/view/amir-ali)  
+
+## Social Information
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amiralicheema/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/amirali556)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/amir.ali.cheema/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/amir_ali_cheema) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC9RN7YoDGM7EPYQJ9ihWxIQ)  
 
 
 
