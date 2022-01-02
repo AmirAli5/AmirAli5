@@ -1,4 +1,5 @@
 ![Amir Ali](cover.png)
+
 📚Data Scientist 🏃‍♂️Athlete ♟Chess Lover <br>
 🎓Warsaw University of Technology <br>
 📍Warsaw, Poland
