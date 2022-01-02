@@ -1,8 +1,4 @@
 ![Amir Ali](cover.png)
-Hi, I am Amir from Pakistan. I did my Bachelor's Degree in Computer Science from the University of Engineering and Technology, Lahore, Pakistan. In August 2020 Granted Ignacy Łukasiewicz Scholarship for Master Study under Polish National Agency for Academic Exchange (NAWA). Currently, I am in Poland and doing  Master's in Data Science at Warsaw University of Technology.
-
-![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
-
 # Hi I'm Amir
 📚Data Scientist 🏃‍♂️Athlete ♟Chess Lover <br>
 🎓Warsaw University of Technology <br>
