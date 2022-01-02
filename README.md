@@ -1,3 +1,4 @@
+![](https://pbs.twimg.com/media/FIGK9qYXIAMwi7Z?format=jpg&name=large)
 # Hi I'm Amir
 📚Data Scientist 🏃‍♂️Athlete ♟Chess Lover <br>
 🎓Warsaw University of Technology <br>
