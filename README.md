@@ -8,7 +8,7 @@
 ![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 
 ## My Stats
-
+[![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAli5&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AmirAli5)
 
