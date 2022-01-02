@@ -8,8 +8,6 @@ Hi, I am Amir from Pakistan. I did my Bachelor's Degree in Computer Science from
 
 ## My Stat
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AmirAli5)  
-
 ![GitHub metrics](https://metrics.lecoq.io/AmirAli5)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AmirAli5)  
