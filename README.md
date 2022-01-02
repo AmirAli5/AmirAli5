@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there �
+📚Data Scientist 🏃‍♂️Athlete ♟Chess Lover
+🎓Warsaw University of Technology
+📍Warsaw, Poland
 
 <!--
 **AmirAli5/AmirAli5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
