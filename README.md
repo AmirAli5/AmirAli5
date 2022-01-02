@@ -1,6 +1,6 @@
 ![Amir Ali](amir.png)
 
-## Who I'm [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/go.svg' alt='go' height='40'>](https://sites.google.com/view/amir-ali)  
+## Who I'm [![Website]( https://img.shields.io/badge/-Website-orange)]( https://sites.google.com/view/amir-ali)
 📚Data Scientist 🏃‍♂️Athlete ♟Chess Lover <br>
 🎓Student at Warsaw University of Technology <br>
 📍Live in Warsaw, Poland
@@ -30,13 +30,6 @@
 
 ## Social Profiles
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amiralicheema/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/amirali.cheema1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/amir.ali.cheema/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/amir_ali_cheema)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC9RN7YoDGM7EPYQJ9ihWxIQ)
-
-![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dominiqr)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dominikrafacz/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dominikrafacz)
-
-
 
 ![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 
