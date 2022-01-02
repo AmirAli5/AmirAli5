@@ -1,10 +1,12 @@
 ![Amir Ali](cover.png)
 Hi, I am Amir from Pakistan. I did my Bachelor's Degree in Computer Science from the University of Engineering and Technology, Lahore, Pakistan. In August 2020 Granted Ignacy Łukasiewicz Scholarship for Master Study under Polish National Agency for Academic Exchange (NAWA). Currently, I am in Poland and doing  Master's in Data Science at Warsaw University of Technology.
+![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 
 # Hi I'm Amir
 📚Data Scientist 🏃‍♂️Athlete ♟Chess Lover <br>
 🎓Warsaw University of Technology <br>
 📍Warsaw, Poland
+![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 
 ## My Stats
 [![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAli5&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
@@ -13,6 +15,7 @@ Hi, I am Amir from Pakistan. I did my Bachelor's Degree in Computer Science from
 
 ![GitHub metrics](https://metrics.lecoq.io/AmirAli5)
 
+ ![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
  
  ## Academic Profile!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/amir-ali) 
@@ -22,8 +25,12 @@ Hi, I am Amir from Pakistan. I did my Bachelor's Degree in Computer Science from
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazon.svg' alt='amazon' height='40'>](https://www.amazon.com/-/e/B081MZ5HCX)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/machine-learning-researcher)
 
+![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
+
 ## Social Information
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amiralicheema/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/amirali556)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/amir.ali.cheema/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/amir_ali_cheema)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC9RN7YoDGM7EPYQJ9ihWxIQ)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amiralicheema/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/amirali556)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/amir.ali.cheema/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/amir_ali_cheema)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC9RN7YoDGM7EPYQJ9ihWxIQ) 
+
+![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
