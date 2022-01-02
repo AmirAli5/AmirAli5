@@ -15,7 +15,10 @@ Hi, I am Amir from Pakistan. I did my Bachelor's Degree in Computer Science from
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Amir-Ali-19)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/academia.svg' alt='academia' height='40'>](https://pw.academia.edu/AmirAli)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazon.svg' alt='amazon' height='40'>](https://www.amazon.com/-/e/B081MZ5HCX)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/machine-learning-researcher)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/machine-learning-researcher)
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='40'>](https://sites.google.com/view/amir-ali)  
+
+
 
 
 <!--
