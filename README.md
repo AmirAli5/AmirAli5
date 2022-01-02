@@ -1,4 +1,4 @@
-![Amir Ali](cover.png)
+![Amir Ali](amir.png)
 
 ## Who I'm
 📚Student 🏃‍♂️Athlete ♟Chess Lover <br>
