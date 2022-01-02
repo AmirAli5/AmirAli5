@@ -14,6 +14,8 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/AmirAli5)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAli5&show_icons=true)  
+
  ![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
  
  ## Academic Profiles
