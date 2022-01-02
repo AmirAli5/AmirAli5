@@ -1,5 +1,6 @@
 ![Amir Ali](cover.png)
 
+## Who I am
 📚Student 🏃‍♂️Athlete ♟Chess Lover <br>
 🎓Warsaw University of Technology <br>
 📍Warsaw, Poland
