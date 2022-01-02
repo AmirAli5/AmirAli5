@@ -7,9 +7,8 @@ Hi, I am Amir from Pakistan. I did my Bachelor's Degree in Computer Science from
 📍Warsaw, Poland
 
 ## My Stat
-
+[![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAli5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub metrics](https://metrics.lecoq.io/AmirAli5)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AmirAli5)  
  
  ## Academic Profile!
