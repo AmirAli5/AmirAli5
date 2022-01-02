@@ -1,4 +1,4 @@
-![](https://www.canva.com/design/DADTvdF3Zqk/mPhBvyyO6-aqgvZMhCZFhA/view?utm_content=DADTvdF3Zqk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+<video controls src="amir.mp4" />
 # Hi I'm Amir
 📚Data Scientist 🏃‍♂️Athlete ♟Chess Lover <br>
 🎓Warsaw University of Technology <br>
