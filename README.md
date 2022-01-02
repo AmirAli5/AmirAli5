@@ -1,6 +1,6 @@
 ### Hi there �
-📚Data Scientist 🏃‍♂️Athlete ♟Chess Lover
-🎓Warsaw University of Technology
+📚Data Scientist 🏃‍♂️Athlete ♟Chess Lover <br>
+🎓Warsaw University of Technology <br>
 📍Warsaw, Poland
 
 <!--
