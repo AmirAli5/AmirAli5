@@ -1,4 +1,4 @@
-<video controls src="amir.mp4" />
+![Amir Ali](cover.png)
 # Hi I'm Amir
 📚Data Scientist 🏃‍♂️Athlete ♟Chess Lover <br>
 🎓Warsaw University of Technology <br>
