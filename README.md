@@ -1,11 +1,9 @@
 ![Amir Ali](amir.png)
 
-## <font color='blue'>Who I'm </font> [![Website]( https://img.shields.io/badge/-Click%20here-red)]( https://sites.google.com/view/amir-ali)
+## Who I'm [![Website]( https://img.shields.io/badge/-Click%20here-red)]( https://sites.google.com/view/amir-ali)
 📚Data Scientist 🏃‍♂️Athlete ♟Chess Lover <br>
 🎓Student at Warsaw University of Technology <br>
 📍Live in Warsaw, Poland
-
-<font color='red'> hello </font>
 
 ![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 
