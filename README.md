@@ -1,6 +1,6 @@
 ![Amir Ali](amir.png)
 
-## Who I'm
+## Who I'm [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/go.svg' alt='go' height='40'>](https://sites.google.com/view/amir-ali)  
 📚Data Scientist 🏃‍♂️Athlete ♟Chess Lover <br>
 🎓Student at Warsaw University of Technology <br>
 📍Live in Warsaw, Poland
