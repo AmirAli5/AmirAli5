@@ -4,7 +4,7 @@
 📍Warsaw, Poland
 
 ## My Stat
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAli5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Amir GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAli5&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AmirAli5/AmirAli5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
