@@ -1,9 +1,9 @@
 ![Amir Ali](amir.png)
 
 ## Who I'm
-📚Student 🏃‍♂️Athlete ♟Chess Lover <br>
-🎓Warsaw University of Technology <br>
-📍Warsaw, Poland
+📚Data Scientist 🏃‍♂️Athlete ♟Chess Lover <br>
+🎓Student at Warsaw University of Technology <br>
+📍Live in Warsaw, Poland
 
 ![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 
