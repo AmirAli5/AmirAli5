@@ -8,9 +8,10 @@ Hi, I am Amir from Pakistan. I did my Bachelor's Degree in Computer Science from
 
 ## My Stat
  [![Amir GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAli5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
- 
- ## Most Languages
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAli5)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=AmirAli5)](https://github.com/ryo-ma/github-profile-trophy)
  
  ## Academic Profile!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/amir-ali) 
