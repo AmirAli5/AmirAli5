@@ -5,6 +5,9 @@
 
 ## My Stat
  [![Amir GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAli5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ ## Contact me!
+[![Google Scholar](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgbin.com%2Fpng%2Ft9Z8aYrM%2Fgoogle-scholar-university-of-california-png&psig=AOvVaw1ryP1JUrcewkKbL_LEB8zN&ust=1641172127858000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDIoenwkfUCFQAAAAAdAAAAABAD)](https://t.me/dominiqr)
 
 <!--
 **AmirAli5/AmirAli5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
