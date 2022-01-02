@@ -4,7 +4,7 @@
 📍Warsaw, Poland
 
 ## My Stat
- ![Amir GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAli5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ [![Amir GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAli5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
  ## Contact me!
 []
