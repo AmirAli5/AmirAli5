@@ -1,4 +1,4 @@
-![Amir Ali Cover](amir.png)
+![Amir Ali Cover.](amir.png)
 
 ## Who I'm [![Website]( https://img.shields.io/badge/-Click%20here-red)]( https://sites.google.com/view/amir-ali)
 📚Data Scientist 🏃‍♂️Athlete ♟Chess Lover <br>
