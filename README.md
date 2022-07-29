@@ -1,7 +1,9 @@
 ![Amir Ali Cover.](amir.png)
 
 ## About me [![Website]( https://img.shields.io/badge/-Click%20here-red)]( https://sites.google.com/view/amir-ali)
-Hello, my name is Amir Ali. I am Data Science Student, Athlete, and Chess Lover. I finished my Bachelor’s Degree in Computer Science from the University of Engineering and Technology, Lahore. I am originally from Pakistan and currently live in Poland and Pursuing a Master's Degree in Data Science at Warsaw University of Technology which is fully funded by the Polish National Agency for Academic Exchange (NAWA).
+📚 Data Science Student 🏃‍♂️Athlete ♟️Chess Lover
+🎓 Warsaw University of Technology
+📍Warsaw, Poland
 
 ![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 
