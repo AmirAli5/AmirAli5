@@ -1,7 +1,7 @@
 ![Amir Ali Cover.](amir.png)
 
 ## About me [![Website]( https://img.shields.io/badge/-Click%20here-red)]( https://sites.google.com/view/amir-ali)
-📚 Data Science Student 🏃‍♂️Athlete ♟️Chess Lover
+📚Data Scientist 📖Author  🏃‍♂️Athlete ♟️Chess Lover
 
 🎓 Warsaw University of Technology
 
