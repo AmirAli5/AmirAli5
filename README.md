@@ -1,11 +1,11 @@
 ![Amir Ali Cover.](amir.png)
 
 ## About me [![Website]( https://img.shields.io/badge/-Click%20here-red)]( https://sites.google.com/view/amir-ali)
-📚Data Scientist 📖Author  🏃‍♂️Athlete ♟️Chess Lover
+📚 Data Scientist 📖 Author  🏃‍ ♂️Athlete ♟️ Chess Lover
 
 🎓 Warsaw University of Technology
 
-📍Warsaw, Poland
+📍 Warsaw, Poland
 
 ![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 
