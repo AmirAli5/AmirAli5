@@ -2,7 +2,7 @@
 
 ## About me [![Website]( https://img.shields.io/badge/-Click%20here-red)]( https://sites.google.com/view/amir-ali)
 ◈ Data Scientist (R&D) at MindBank AI </br>
-◈ Research Interest in Machine Learning, Natural Language Processing, and Information Retrieval  </br>
+◈ Research Interest in Machine Learning, Deep Learning, Natural Language Processing  </br>
 ◈ Master's Degree in Data Science at Warsaw University of Technology, Warsaw </br>
 ◈ Bachelor's Degree in Computer Science at the University of Engineering and Technology, Lahore </br>
 ◈ Currently Working on my dream Project: "The Art of Data Science" </br>
