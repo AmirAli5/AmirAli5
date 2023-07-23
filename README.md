@@ -1,12 +1,18 @@
 ![Amir Ali Cover.](amir.png)
 
 ## About me [![Website]( https://img.shields.io/badge/-Click%20here-red)]( https://sites.google.com/view/amir-ali)
-📚 Data Scientist 📖 Author  🏃‍ Athlete ♟️ Chess Lover
-
-🎓 Warsaw University of Technology
-
-📍 Warsaw, Poland
-
+◈ Data Scientist (R&D) at MindBank AI
+◈ Research Interest in Machine Learning, Natural Language Processing, Information Retrieval
+◈ NAWA Ignacy Lukasiewicz Scholarship Programme Holder
+◈ Master's Degree in Data Science at Warsaw University of Technology, Warsaw
+◈ Bachelor's Degree in Computer Science at the University of Engineering and Technology, Lahore
+◈ Currently Working on the Following Two Projects (Personal):
+  🟆 Master's Thesis
+  🟆 The Art of Data Science
+◈ Author of the Following Books:
+  🟆 Deep Learning Objective
+  🟆 Hands-On Machine Learning with Scikit-Learn.
+◈ Athletics and Chess are my 🖤
 ![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 
 ## My Stats
