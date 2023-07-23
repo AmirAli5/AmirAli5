@@ -2,16 +2,13 @@
 
 ## About me [![Website]( https://img.shields.io/badge/-Click%20here-red)]( https://sites.google.com/view/amir-ali)
 ◈ Data Scientist (R&D) at MindBank AI </br>
-◈ Research Interest in Machine Learning, Natural Language Processing, Information Retrieval  </br>
-◈ NAWA Ignacy Lukasiewicz Scholarship Programme Holder  </br>
+◈ Research Interest in Machine Learning, Natural Language Processing, and Information Retrieval  </br>
 ◈ Master's Degree in Data Science at Warsaw University of Technology, Warsaw </br>
 ◈ Bachelor's Degree in Computer Science at the University of Engineering and Technology, Lahore </br>
-◈ Currently Working on the Following Two Projects (Personal): </br>
-  🟆 Master's Thesis </br>
-  🟆 The Art of Data Science </br>
+◈ Currently Working on my dream Project: "The Art of Data Science" </br>
 ◈ Author of the Following Books: </br>
-  🟆 Deep Learning Objective </br>
-  🟆 Hands-On Machine Learning with Scikit-Learn. </br>
+      🟆 Deep Learning Objective </br>
+      🟆 Hands-On Machine Learning with Scikit-Learn. </br>
 ◈ Athletics and Chess are my 🖤
 ![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 
