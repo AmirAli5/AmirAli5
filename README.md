@@ -1,14 +1,15 @@
 ![Amir Ali Cover.](amir.png)
 
 ## About me [![Website]( https://img.shields.io/badge/-Click%20here-red)]( https://sites.google.com/view/amir-ali)
+◈ IoT Cloud Engineer at LTIMindTree  </br>
+◈ Founder and CEO at The Art of Data Science  </br>
 ◈ Research Interest in Machine Learning, Deep Learning, Natural Language Processing  </br>
 ◈ Master's Degree in Data Science at Warsaw University of Technology, Warsaw </br>
 ◈ Bachelor's Degree in Computer Science at the University of Engineering and Technology, Lahore </br>
-◈ Currently Working on my dream Project: "The Art of Data Science" </br>
 ◈ Author of the Following Books: </br>
       🟆 Deep Learning Objective </br>
       🟆 Hands-On Machine Learning with Scikit-Learn. </br>
-◈ Athletics and Chess are my 🖤
+◈ Athletics and Chess are my Hobbies 🖤
 ![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 
 ## My Stats
