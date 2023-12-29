@@ -1,7 +1,7 @@
 ![Amir Ali Cover.](amir.png)
 
 ## About me [![Website]( https://img.shields.io/badge/-Click%20here-red)]( https://sites.google.com/view/amir-ali)
-◈ IoT Cloud Engineer at LTIMindTree  </br>
+◈ ML Cloud Engineer at LTIMindTree  </br>
 ◈ Founder and CEO at The Art of Data Science  </br>
 ◈ Research Interest in Machine Learning, Deep Learning, Natural Language Processing  </br>
 ◈ Master's Degree in Data Science at Warsaw University of Technology, Warsaw </br>
