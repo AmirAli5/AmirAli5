@@ -1,14 +1,12 @@
 ![Amir Ali Cover.](amir.png)
 
 ## About me [![Website]( https://img.shields.io/badge/-Click%20here-red)]( https://sites.google.com/view/amir-ali)
-◈ ML Cloud Engineer at LTIMindTree  </br>
+◈ SME and Azure ML Engineer ML at LTIMindTree(Microsoft) </br>
 ◈ Founder and CEO at The Art of Data Science  </br>
-◈ Research Interest in Machine Learning, Deep Learning, Natural Language Processing  </br>
 ◈ Master's Degree in Data Science at Warsaw University of Technology, Warsaw </br>
 ◈ Bachelor's Degree in Computer Science at the University of Engineering and Technology, Lahore </br>
-◈ Author of the Following Books: </br>
-      🟆 Deep Learning Objective </br>
-      🟆 Hands-On Machine Learning with Scikit-Learn. </br>
+◈ Research Interest in Machine Learning, Deep Learning, Natural Language Processing  </br>
+◈ Author and Co-Author of more than 10 publications including Journal Papers, Conference Papers, Books, Technical Reports.
 ![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 
 ## My Stats
