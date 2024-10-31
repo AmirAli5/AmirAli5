@@ -2,7 +2,6 @@
 
 ## About me [![Website]( https://img.shields.io/badge/-Click%20here-red)]( https://sites.google.com/view/amir-ali)
 ◈ Azure Machine Learning Engineer at Microsoft </br>
-◈ Founder and CEO at The Art of Data Science  </br>
 ◈ Master's Degree in Data Science at Warsaw University of Technology, Warsaw </br>
 ◈ Bachelor's Degree in Computer Science at the University of Engineering and Technology, Lahore </br>
 ◈ Research Interest in Machine Learning, Deep Learning, Natural Language Processing  </br>
