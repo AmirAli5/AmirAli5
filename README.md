@@ -4,7 +4,7 @@
 ◈ Azure Machine Learning Engineer at Microsoft </br>
 ◈ Master's Degree in Data Science at Warsaw University of Technology, Warsaw </br>
 ◈ Bachelor's Degree in Computer Science at the University of Engineering and Technology, Lahore </br>
-◈ Research Interest in Machine Learning, Deep Learning, Natural Language Processing  </br>
+◈ Research Interest in Machine Learning, Natural Language Processing, Generative AI  </br>
 ◈ Author and Co-Author of more than 10 publications including Journal Papers, Conference Papers, Books, Technical Reports.
 ![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 
