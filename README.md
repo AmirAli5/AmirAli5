@@ -5,7 +5,7 @@
 ◈ Master's Degree in Data Science at Warsaw University of Technology, Warsaw </br>
 ◈ Bachelor's Degree in Computer Science at the University of Engineering and Technology, Lahore </br>
 ◈ Research Interest in Machine Learning, Natural Language Processing, Generative AI  </br>
-◈ Author and Co-author of 10+ Peer-reviewed Publications, Including Journals, Conferences, books, and Technical Reports, with 100+ Citations.
+◈ Author and Co-author of 10+ Peer-reviewed Publications, Including Journals, Conferences, books, and Technical Reports, with 100+ Citations
 ![purple-divider](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 
 ## My Stats
