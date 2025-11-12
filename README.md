@@ -14,6 +14,7 @@
  <a href="https://www.linkedin.com/in/amiralicheema/" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40">
 </a>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='40'>](https://scholar.google.com/citations?user=nvIf4goAAAAJ&hl=en)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Amir-Ali-19)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/academia.svg' alt='academia' height='40'>](https://pw.academia.edu/AmirAli)
