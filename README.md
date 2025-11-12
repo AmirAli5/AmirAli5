@@ -7,7 +7,7 @@
 ◈ Research Interest in Machine Learning, Natural Language Processing, Generative AI  </br>
 ◈ Author and Co-author of 10+ Peer-reviewed Publications, Including Journals, Conferences, books, and Technical Reports, with 100+ Citations
 
-## My Stats
+## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAli5&show_icons=true&theme=radical)  
  
  ## Academic Profiles
